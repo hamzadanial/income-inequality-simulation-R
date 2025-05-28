@@ -19,9 +19,7 @@ Each scenario is simulated over 100 replicates with 1,000 individuals per replic
 
 ## 📊 Visualization
 
-Density plots for income distributions are created using `ggplot2`. A sample output looks like:
-
-![Density Plot](plots/income_density_plot.png)
+Density plots for income distributions are created using `ggplot2`. 
 
 ## 📂 Files
 
